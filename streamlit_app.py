@@ -1,3 +1,5 @@
+$ pip install -r requirements.txt
+
 import streamlit as st
 from openai import OpenAI
 from langchain.prompts import PromptTemplate
